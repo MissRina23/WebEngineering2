@@ -1,0 +1,25 @@
+{
+  "name": "ueb2-node-server",
+  "version": "1.0.1",
+  "description": "MME2 Übung2 Team:FullStack",
+  "keywords": ["mme2","FullStack","Übung 2"],
+  "main": "nodeAPP/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Stefan Streichan",
+    "email": "testmail@gmail.com",
+    "url": "localhost:3000"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=7.0.0"
+  },
+  "files": [
+    "app.js"
+  ],
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

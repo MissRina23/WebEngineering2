@@ -1,0 +1,5 @@
+Hier ist das File,
+das über NodeJS einzulesen ist.
+Am Ende der Datei befindet sich eine Zeitangabe
+in Millisekunden, die die Zugriffszeit
+anzeigt.
